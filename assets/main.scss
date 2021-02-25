@@ -1,0 +1,37 @@
+---
+
+---
+
+@import "minima";
+
+.site-header {
+    border-top: 0;
+}
+
+.p-name{
+    display: none;
+}
+
+.site-footer {
+    background-color:#141414;
+    padding-top: 1rem;
+    padding-bottom: 0;
+}
+
+.site-footer a:hover{
+    color:$hover-color;
+}
+
+.my_title{
+    display: block;
+    font-size: medium;
+}
+
+.rss-subscribe{
+    display: none;
+}
+
+.image{
+    padding: 4px;
+    border: 1px solid black;
+}
